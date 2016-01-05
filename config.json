@@ -1,0 +1,5 @@
+{
+  "allowed": "example.com",
+  "errorMessage": "Only example emails are allowed",
+  "enabled": true
+}
